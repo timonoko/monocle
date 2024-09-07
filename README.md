@@ -1,3 +1,5 @@
-Not a trivial object I found.
+Not a trivial object.
+
+<img src=scad.png>
 
 <img src=mono.jpg>
