@@ -1,4 +1,4 @@
-Not a trivial object.
+This is not a trivial design object.
 
 <img src=scad.png>
 
